@@ -1,4 +1,7 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Abdallah Smadi</h1>
+<h3 align="center">Computer Scientist, FullStack Software developer from Amman-Jordan</h3>
+
 🌱 I’m currently learning React , node.js<br>
 
 
