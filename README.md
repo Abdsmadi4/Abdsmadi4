@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdallah Smadi</h1>
 <h3 align="center">Computer Scientist, FullStack Software developer from Amman-Jordan</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdsmadi4/portfolio](https://github.com/Abdsmadi4/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
